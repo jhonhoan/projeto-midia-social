@@ -26,8 +26,9 @@ main{
     position: relative;
     background:linear-gradient(90deg, #ffffff, #dadadafd);
     width: 500px;
-    height: 637px;
+    height: 700px;
     left: -114px;
+    border-radius: 0px 5px 5px 0px;
    
 
     
