@@ -112,7 +112,7 @@ section{
     text-shadow: 2px 1px 1px black;
 }
 
-div{
+header{
     display: flex;
     justify-content: space-evenly; 
     align-items: center;
